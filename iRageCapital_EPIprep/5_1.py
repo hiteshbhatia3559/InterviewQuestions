@@ -20,3 +20,5 @@ def rearrange(a, i):
 a = [1, 5, 6, 7, 3, 2, 4, 6, 9, 1, 3, 4, 5]
 i = 4
 print(rearrange(a, i))
+
+#output = [1, 2, 1, 3, 3, 5, 6, 7, 4, 6, 9, 4, 5]
