@@ -15,12 +15,13 @@ def power1(x,y):
     return result
 
 
-print(power1(500,500))
+print(power1(99,10))
 
 #O(2^n)
 def power2(x,y):
     if y == 0:
         return 1
-    if y>=1:
+    if y >= 1:
         return x * power2(x,y-1)
 
+print(power2(99,10))
