@@ -28,6 +28,7 @@ Preparation methodology:
 
 Links:
 ```
+https://introcs.cs.princeton.edu/python/21function/blackscholes.py.html
 https://www.math.ust.hk/~maykwok/courses/MATH6380/Topic2.pdf
 
 ```
