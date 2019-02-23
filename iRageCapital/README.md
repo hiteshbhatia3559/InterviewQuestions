@@ -26,5 +26,8 @@ Preparation methodology:
 4. Revision of Statistics from https://www.youtube.com/watch?v=tTAieUcNHdY - Todo
 ```
 
-Misc:
+Links:
+```
 https://www.math.ust.hk/~maykwok/courses/MATH6380/Topic2.pdf
+
+```
