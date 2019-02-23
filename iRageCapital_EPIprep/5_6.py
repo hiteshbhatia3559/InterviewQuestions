@@ -6,7 +6,13 @@
 
 
 def max_possible_profit(prices):
-    
+    max_profit_last, min_price_so_far = 0,  prices[0]
+    max_profit = 0
+    for price in prices:
+        max_profit_last = price - min_price_so_far
+        min_price_so_far = min(price,min_price_so_far)
+        max_profit = max(max_profit,max_profit_last)
+    return max_profit
 
 ticker = [310, 315, 275, 260, 270, 290, 230, 255, 250]
 
